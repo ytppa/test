@@ -1,0 +1,13 @@
+.items {
+    padding: 1rem;
+    font-size: 3rem;
+}
+
+.status--idle {
+    background-color: #eee;
+}
+
+
+.status--loading {
+    background-color: goldenrod;
+}
